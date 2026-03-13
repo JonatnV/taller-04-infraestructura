@@ -22,7 +22,7 @@ redundante debido a que solo habia dos servidores con funciones diferentes.
 
 ## 🧩 Boceto inicial del modelo
 
-
+![Mapa Infraestructura](mapa_borrador.png)
 
 ## Analisis de la Infraestructura
 Primeramente, se identifica la falta de redundancia en los servidores On-premise, por lo que uno de ellos fallando podria llevar a la perdida de servicio hasta
