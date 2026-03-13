@@ -1,7 +1,7 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+# 🗒️ Registro de Trabajo en Clase - Taller 4
 
 ## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+_07/03/2026_
 
 ## 👥 Integrantes presentes
 - Carlos David Bello Ortiz
