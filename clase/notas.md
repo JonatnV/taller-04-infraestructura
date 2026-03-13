@@ -33,4 +33,4 @@ por lo cual haria falta el uso de agentes locales para realizar el monitoreo
 
 ---
 
-_Este documento resume el trabajo colaborativo realizado durante la sesión del taller X en el curso AREM - Universidad de La Sabana._na.
+_Este documento resume el trabajo colaborativo realizado durante la sesión del taller 4 en el curso AREM - Universidad de La Sabana._na.
